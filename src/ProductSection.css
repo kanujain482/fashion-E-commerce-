@@ -1,0 +1,8 @@
+.product-img {
+    height: 699px;
+    /* Adjust height as needed */
+    width: 100%;
+    /* Ensures it takes the full width */
+    object-fit: cover;
+    /* Maintains aspect ratio */
+}
